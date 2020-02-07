@@ -1,2 +1,2 @@
 Some file in repo
-some new text
+text added in test
